@@ -1,9 +1,10 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krutikaa04&label=Profile%20views&color=0e75b6&style=flat" alt="Krutikaa04" /> </p>
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://shahkushal38.github.io/portfolio-website/">Krutika Wagh</a></h1>
+<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm <a href="https://shahkushal38.github.io/portfolio-website/">Krutika Wagh</a></h1>
 <h3 align="center">Undergrad Student </h3>
 
+- 👀 I'm a **Sophomore Student** pursuing **Bachelor's Degree**.
 <!--
 Here are some ideas to get you started:
 
