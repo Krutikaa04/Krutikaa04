@@ -6,10 +6,13 @@
 
 - 👀 I'm a **Sophomore Student** pursuing **Bachelor's Degree** from **University of Mumbai**.
 - 🌱 I’m currently **upskilling** myself in **Web 2.0** domain alongwith discovering the advances of **MEAN Stack**.
+- 🔭 I have secured **5 Stars** in **C ++** alongwith **4 Stars** in **Python** and **3 Stars** each in **Java** and **C Programming**.
+
+
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ...
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
