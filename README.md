@@ -6,7 +6,7 @@
 
 - 👀 I'm a **Sophomore Student** pursuing **Bachelor's Degree** from **University of Mumbai**.
 - 🌱 I’m currently **upskilling** myself in **Web 2.0** domain alongwith discovering the advances of **MEAN Stack**.
-- 🔭 I have secured **5 Stars** in **C ++** alongwith **4 Stars** in **Python** and **3 Stars** each in **Java** and **C Programming** on **Hackerrank** platform.
+- 🔭 I have secured **5 ⭐** in **C ++** alongwith **4 ⭐** in **Python** and **3 ⭐** each in **Java** and **C Programming** on **Hackerrank** platform.
 
 
 <!--
