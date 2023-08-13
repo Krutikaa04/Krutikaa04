@@ -5,11 +5,12 @@
 <h3 align="center">Undergrad Student </h3>
 
 - 👀 I'm a **Sophomore Student** pursuing **Bachelor's Degree** from **University of Mumbai**.
+- 🌱 I’m currently **upskilling** myself in **Web 2.0** domain alongwith discovering the advances of **MEAN Stack**.
 <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently **upskilling** myself in **Web 2.0** domain alongwith discovering the advances of **MEAN Stack**.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
