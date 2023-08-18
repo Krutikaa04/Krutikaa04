@@ -14,9 +14,9 @@
 <a href="https://www.linkedin.com/in/krutika-w-13036a24a" target="_blank">
 <img src="https://img.shields.io/badge/Krutika%20Wagh-blue?style=flat&logo=LinkedIn&logoColor=Blue" >
 </a>
-<!-- <a href="https://www.linkedin.com/in/kushal-shah-375792193/" target="_blank">
+<a href="https://instagram.com/krutikaa.xo?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-lightpink?style=flat&logo=Instagram&logoColor=black" >
-</a> -->
+</a>
 
 <!--
 Here are some ideas to get you started:
