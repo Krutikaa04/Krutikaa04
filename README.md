@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krutikaa04&label=Profile%20views&color=0e75b6&style=flat" alt="Krutikaa04" /> </p>
 
-<h1 align="center">Hello <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f" width="29">, I'm Krutika Wagh </h1>
+<h1 align="center">Hello <img src="https://gist.github.com/f4dd30775e8de8a4a4b1aafe04cce172.git" width="29">, I'm Krutika Wagh </h1>
 <h3 align="center">Undergrad Student </h3>
 
 - 👀 I'm a **Sophomore Student** pursuing **Bachelor's Degree** from **University of Mumbai**.
