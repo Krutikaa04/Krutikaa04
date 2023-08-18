@@ -17,6 +17,7 @@
 <a href="https://instagram.com/krutikaa.xo?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-lightpink?style=flat&logo=Instagram&logoColor=black" >
 </a>
+</p>
 
 <!--
 Here are some ideas to get you started:
