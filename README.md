@@ -24,14 +24,21 @@
 > Programming Languages
 <p align="left">
   <a href="#">
-   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,py,java"/>
+   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css"/>
   </a>
 </p>
 
 > Frameworks and Databases
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,angular,mongodb,mysql"/>
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,mysql"/>
+  </a>
+</p>
+
+> Tools
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,phpMyAdmin"/>
   </a>
 </p>
 
