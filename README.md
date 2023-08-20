@@ -19,6 +19,26 @@
 </a>
 </p>
 
+
+## 🛠️ Languages and Tools:
+> Programming Languages
+<p align="left">
+  <a href="#">
+   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,py,java"/>
+  </a>
+</p>
+
+> Frameworks and Databases
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,angular,mongodb,mysql"/>
+  </a>
+</p>
+
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
