@@ -38,8 +38,16 @@
 > Tools
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,phpMyAdmin"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell"/>
   </a>
+</p>
+
+
+
+## 📈 Github Statistics
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Krutikaa04&theme=github_dark&show_icons=true&locale=en" alt="Krutikaa04"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Krutikaa04&theme=github-dark-blue" alt="Krutikaa04"/>
 </p>
 
 
