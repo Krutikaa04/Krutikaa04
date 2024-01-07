@@ -31,7 +31,7 @@
 > Frameworks and Databases
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,mysql"/>
+    <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,mysql"/>
   </a>
 </p>
 
