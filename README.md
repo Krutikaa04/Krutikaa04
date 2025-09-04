@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krutikaa04&label=Profile%20views&color=0e75b6&style=flat" alt="Krutikaa04" /> </p>
 
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Krutika Wagh </h1>
-<h3 align="center">Undergrad Student </h3>
+<h3 align="center">Postgrad Student </h3>
 
-- 👀 I'm a **Student** pursuing **Bachelor's Degree** from **University of Mumbai**.
-- 🌱 I’m currently **upskilling** myself in **Web 2.0** domain alongwith **MEAN Stack** and **MERN Stack**.
+- 👀 I'm a **Student** pursuing **Master's in Computer Applications** from **Vivekanand Education Society's Institute of Technology (VESIT), Mumbai**.
+- 🌱 I’m currently **upskilling** myself in **Web** domain alongwith **AI / ML** and **Data Analysis**.
 - 🔭 I have secured **5 ⭐** in **C ++** alongwith **4 ⭐** in **Python** and **3 ⭐** each in **Java** and **C Programming** on **Hackerrank** platform.
 - 👯 I’m looking to **collaborate** on **Full Stack Projects** using **JavaScript, Python, Java, MEAN Stack and MERN Stack** and solving various **DSA** problems.
 - 😃 Connect with me on my socials below 🤝
